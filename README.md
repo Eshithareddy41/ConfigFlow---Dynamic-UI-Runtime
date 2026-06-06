@@ -8,7 +8,7 @@ ConfigFlow AI demonstrates how applications can be generated and modified throug
 
 Add your Vercel deployment link here:
 
-https://your-project.vercel.app
+https://configflow-ai.vercel.app/
 
 ---
 ## Features
@@ -44,10 +44,10 @@ New components can be added through the renderer architecture without modifying 
 
 ## Supported Components
 
--Form
--Table
--Card
--Layout
+- Form
+- Table
+- Card
+- Layout
 
 ---
 
