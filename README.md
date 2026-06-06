@@ -1,4 +1,4 @@
-# ConfigFlow AI
+# ConfigFlow - Dynamic UI Runtime
 
 A configuration-driven frontend runtime that dynamically renders user interfaces from JSON configuration.
 
@@ -44,10 +44,10 @@ New components can be added through the renderer architecture without modifying 
 
 ## Supported Components
 
-Form
-Table
-Card
-Layout
+-Form
+-Table
+-Card
+-Layout
 
 ---
 
@@ -162,10 +162,3 @@ http://localhost:3000
 - Backend schema generation
 - API generation support
 
----
-
-## Author
-
-Eshitha reddy
-
-Frontend Engineer Internship Submission
